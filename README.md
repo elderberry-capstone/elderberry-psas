@@ -1,4 +1,4 @@
-elderberry-psas
-===============
+elderberry
+==========
 
-Repo for Team Elderberry and PSAS members
+Repo strictly for the members of Team Elderberry 
